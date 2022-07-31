@@ -16,6 +16,7 @@
         <maintainerurl>https://www.distro.fr/</maintainerurl>
         <targetplatform name="joomla" version="3.[456789]" />
     </update>
+	<update>
         <name>Typographe</name>
         <description>Plugin to integrate Jolitypo with Joomla</description>
         <element>typographe</element>
